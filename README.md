@@ -1,5 +1,10 @@
 # Anirudh-Kakarlapudi-p0
 ## Word Count 
+#### Data Explaination
+
+
+
+
 This project is subdivided into four parts.<br/>
 #### Sub-Project1:
 The problem here is to find the wordcounts in the given data files. The job is to print the top 40 words with highest wordcounts across all the documents.</br>
