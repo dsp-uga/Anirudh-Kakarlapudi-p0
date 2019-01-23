@@ -12,7 +12,7 @@ The data consists of 8 books which are freely available data from <a href = http
   <li> <i>Alice in Wonderland</i> by Lewis Carroll</li>
   <li> <i>Pride and Prejudice</i> by Jane Austen</li>
 </ul>
-#### Problem Explaination
+<h2> Problem Explaination </h2>
 This project is subdivided into four parts.<br/>
 <h5> Sub-Project1:</h5>
 The sub-project is to find the wordcounts in the given data files. The job is to print the top 40 words with highest wordcounts across all the documents.</br>
@@ -24,6 +24,19 @@ The sub-project is to remove the punctuations if any word starts or end with it.
 The sub-project is to find the words with high tf-idf (term frequencies - inverse document frequencies) from each document and printing five from each of them.
 
 ## Implementation:
-The project is implemented in Apache Spark 2.3.2 with Python 3.6.5 API.
+The project is implemented in Apache Spark 2.3.2 with Python 3.6.5 API. The spark is installed in the anaconda environment. The basic pyspark functions used are 
+<ol>
+ <li> reduceByKey()</li>
+  <li> map()</li>
+  <li> flatmap()</li>
+  <li> parallelize()</li>
+  <li> collectAsMap()</li>
+  <li> filter()</li>
+ </ol>
+The complete documentation for pyspark can be found <a href = "https://spark.apache.org/docs/2.3.1/api/python/pyspark.sql.html"> here.</a>
+## Authors:
+<ul> <li> Anirudh Kumar Maurya Kakarlapudi </li></ul>
 
+## License:
+This project is licensed under the MIT License - see the <a href="https://github.com/dsp-uga/Anirudh-Kakarlapudi-p0/blob/master/LICENSE">LICENSE.md </a>file for the details
 
