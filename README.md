@@ -13,13 +13,13 @@ The data consists of 8 books which are freely available data from <a href = http
   <li> <i>Pride and Prejudice</i> by Jane Austen</li>
 </ul>
 This project is subdivided into four parts.<br/>
-#### Sub-Project1:
+<h5> Sub-Project1</h5>:
 The problem here is to find the wordcounts in the given data files. The job is to print the top 40 words with highest wordcounts across all the documents.</br>
-#### Sub-Project2: 
+<h5> Sub-Project2</h5>: 
 The problem is to remove the stop words from the document and find the respective word count. The stop words are repeated in every sentence and document. So they do not add significance to the text processing and hence need to be removed. The job is to print the top 40 words with highest wordcounts across all the documents after removong the stop words .</br>
-#### Sub-Project3: 
+<h5> Sub-Project3</h5>: 
 The problem is to remove the punctuations if any word starts or end with it. The punctuations that are to be removed are (. , ! ? ; : ')
-#### Sub-Project4: 
+<h5> Sub-Project4</h5>: 
 The problem is to find the words with high tf-idf (term frequencies - inverse document frequencies) from each document and printing five from each of them.
 
 ## Implementation:
