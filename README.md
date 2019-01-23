@@ -24,7 +24,7 @@ The sub-project is to remove the punctuations if any word starts or end with it.
 The sub-project is to find the words with high tf-idf (term frequencies - inverse document frequencies) from each document and printing five from each of them.
 
 ## Implementation:
-The project is implemented in Apache Spark 2.3.2 with Python 3.6.5 API. The spark is installed in the anaconda environment. The basic pyspark functions used are 
+The project is implemented in Apache Spark 2.3.2 with Python 3.6.5 API. The spark is installed in the anaconda environment by executing the <a href ="https://anaconda.org/conda-forge/pyspark">command</a> in anaconda prompt. The basic pyspark functions used are 
 <ol>
  <li> reduceByKey()</li>
   <li> map()</li>
