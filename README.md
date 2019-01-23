@@ -1,10 +1,17 @@
 # Anirudh-Kakarlapudi-p0
 ## Word Count 
-#### Data Explaination
-
-
-
-
+#### Data Explaination:
+The data consists of 8 books which are freely available data from <a href = https://www.gutenberg.org> Project Gutenberg</a>
+ <ul>
+  <li> <i>Ulysses</i> by James Joyce</li>
+  <li> <i>The War of the Worlds </i> by H. G. Wells</li>
+  <li> <i>Little Women</i> by Louisa May Alcott</li>
+  <li> <i>The Republic</i> by Plato</li>
+  <li> <i>Leviathan</i> by Thomas Hobbes</li>
+  <li> <i>The Iliad of Homer</i> by Homer</li>
+  <li> <i>Alice in Wonderland</i> by Lewis Carroll</li>
+  <li> <i>Pride and Prejudice</i> by Jane Austen</li>
+</ul>
 This project is subdivided into four parts.<br/>
 #### Sub-Project1:
 The problem here is to find the wordcounts in the given data files. The job is to print the top 40 words with highest wordcounts across all the documents.</br>
