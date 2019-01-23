@@ -34,7 +34,7 @@ The project is implemented in Apache Spark 2.3.2 with Python 3.6.5 API. The spar
   <li> filter()</li>
  </ol>
 The complete documentation for pyspark can be found <a href = "https://spark.apache.org/docs/2.3.1/api/python/pyspark.sql.html"> here.</a>
-## Authors:
+<h3> Authors:</h3>
 <ul> <li> Anirudh Kumar Maurya Kakarlapudi </li></ul>
 
 ## License:
