@@ -38,5 +38,5 @@ The complete documentation for pyspark can be found <a href = "https://spark.apa
 <ul> <li> Anirudh Kumar Maurya Kakarlapudi. See <a href ="https://github.com/dsp-uga/Anirudh-Kakarlapudi-p0/blob/master/CONTRIBUTORS.md"> Contributors.md </a> for additional information</li></ul>
 
 ## License:
-This project is licensed under the MIT License - see the <a href="https://github.com/dsp-uga/Anirudh-Kakarlapudi-p0/blob/master/LICENSE">LICENSE</a>file for the details
+This project is licensed under the MIT License - see the <a href="https://github.com/dsp-uga/Anirudh-Kakarlapudi-p0/blob/master/LICENSE">LICENSE</a> file for the details
 
