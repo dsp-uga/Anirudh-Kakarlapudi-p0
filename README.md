@@ -35,7 +35,7 @@ The project is implemented in Apache Spark 2.3.2 with Python 3.6.5 API. The spar
  </ol>
 The complete documentation for pyspark can be found <a href = "https://spark.apache.org/docs/2.3.1/api/python/pyspark.sql.html"> here.</a>
 <h3> Authors:</h3>
-<ul> <li> Anirudh Kumar Maurya Kakarlapudi </li></ul>
+<ul> <li> Anirudh Kumar Maurya Kakarlapudi. See <a href ="https://github.com/dsp-uga/Anirudh-Kakarlapudi-p0/blob/master/CONTRIBUTORS.md"> Contributors.md </a> for additional information</li></ul>
 
 ## License:
 This project is licensed under the MIT License - see the <a href="https://github.com/dsp-uga/Anirudh-Kakarlapudi-p0/blob/master/LICENSE">LICENSE.md </a>file for the details
